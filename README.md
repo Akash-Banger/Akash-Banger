@@ -1,5 +1,5 @@
 # 💫 About Me:
----
+
 ### Current Projects
 - Building DLT pipelines for audio analytics and customer insights 🔄
 - Developing voice-AI mock interview platform with real-time feedback 🎙️
